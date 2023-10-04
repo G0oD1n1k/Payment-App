@@ -2,6 +2,10 @@
 
 In the project directory, you can run:
 
+### `npm install react-scripts --save-dev`
+The command is used to install `react-scripts` as development dependencies in a React project,
+thus providing access to a set of tools and scripts.
+
 ### `npm start`
 
 Runs the app in the development mode.\
