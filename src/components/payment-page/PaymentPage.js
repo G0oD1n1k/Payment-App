@@ -91,9 +91,6 @@ class PaymentPage extends Component {
 
 
   render() {
-    if (this.state.isPaymentSuccessful) { 
-      <Navigate to="/payment-result" replace={true}/>
-    }
     return (
       <div>
         <div class="form-container">
