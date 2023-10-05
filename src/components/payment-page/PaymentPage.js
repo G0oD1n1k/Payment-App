@@ -85,7 +85,7 @@ class PaymentPage extends Component {
     
     this.setState({
       isPaymentSuccessful: true,
-      errors: []
+      error: new Map()
     });
   };
 
